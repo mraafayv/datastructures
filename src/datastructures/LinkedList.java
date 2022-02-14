@@ -156,13 +156,10 @@ public class LinkedList{
     }
     public static void main(String[] args) {
         LinkedList list = new LinkedList();
-//        list.insert(list, 10);
-//        list.insert(list, 20);
-//        list.insert(list, 30);
-//        list.insert(list, 40);
-
-//        list.deleteKey(list);
-//        list.printList(list);
+        list.insert(list, 10);
+        list.insert(list, 20);
+        list.insert(list, 30);
+        list.insert(list, 40);
         list.insertAt(list);
 
 
