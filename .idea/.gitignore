@@ -1,6 +1,5 @@
 # Default ignored files
-/shelf/
-out/
-.idea/
+out/**
+.idea/**
 datastructurespractise.iml
 
