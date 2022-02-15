@@ -36,6 +36,27 @@ public class Queue {
     }
 
 
+
+    Queue Dequeue(Queue que){
+
+        if (front == null){
+            System.out.print("Queue Underflow");
+            System.out.println();
+        }
+
+        else {
+            System.out.println();
+            System.out.print("Element "+"'"+front.data+"'"+" successfully removed from the queue!");
+            System.out.println();
+            front = front.next;
+        }
+
+        return  que;
+    }
+
+
+
+
 Queue printQueue(Queue que){
     Node temp = front;
 
@@ -58,22 +79,27 @@ Queue printQueue(Queue que){
 }
 
 
-Queue Dequeue(Queue que){
+boolean isEmpty(Queue que){
+
+        boolean answer;
 
         if (front == null){
-            System.out.print("Queue Underflow");
+            answer = true;
             System.out.println();
+            System.out.println("Queue is Empty!");
         }
 
         else {
+            answer = false;
             System.out.println();
-            System.out.print("Element "+"'"+front.data+"'"+" successfully removed from the queue!");
-            System.out.println();
-            front = front.next;
+            System.out.println("Queue is not Empty!");
         }
 
-        return  que;
+
+
+        return answer;
 }
+
 
 
     public class Node{
@@ -96,6 +122,8 @@ Queue Dequeue(Queue que){
         q1.printQueue(q1);
         q1.Dequeue(q1);
         q1.printQueue(q1);
+        q1.isEmpty(q1);
+
 
     }
 }
