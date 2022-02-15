@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35531073-7b53-4ef5-82be-45750b6d0dc4" name="Changes" comment="added Array and Doubly Linked list">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructures/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructurespractise/datastructures/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructurespractise/datastructures/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructurespractise/datastructures/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructurespractise/datastructures/Stack$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructurespractise/datastructures/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructurespractise/datastructures/doublyLL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructurespractise/datastructures/doublyLL.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
