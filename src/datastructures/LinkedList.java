@@ -56,7 +56,7 @@ public class LinkedList{
             System.out.println("Enter the key you want your data to be inserted after: ");
             printList(list);
             int key = in.nextInt();
-//            System.out.println();
+
             System.out.println("Enter the data you want to add in the list: ");
             int data = a.nextInt();
             Node newNode = new Node(data);
