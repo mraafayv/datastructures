@@ -1,9 +1,4 @@
 # Default ignored files
-/shelf/
-/workspace.xml
-/vcs.xml
-/modules.xml
-/misc.xml
-/out/
-/src/
-/datastructurespractise.iml
+out/**
+.idea/**
+datastructurespractise.iml
